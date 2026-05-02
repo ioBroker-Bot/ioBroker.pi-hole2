@@ -196,6 +196,9 @@ You have restarted the adapter too often and each time a new session is requeste
 -->
 
 ### **WORK IN PROGRESS**
+- (copilot) Adapter requires node.js >= 22 now
+
+### **WORK IN PROGRESS**
 
 - add test and coverage
 
