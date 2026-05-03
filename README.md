@@ -259,6 +259,8 @@ You have restarted the adapter too often and each time a new session is requeste
 
 - (oweitman) first npm release
 
+[Older changelogs can be found there](CHANGELOG_OLD.md)
+
 ## License
 
 MIT License
